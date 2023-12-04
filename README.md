@@ -25,7 +25,9 @@ Predictive Analytics with Databricks: Utilizing Databricks' advanced analytics t
 
 
 
-https://github.com/raviavhad/datatwist/assets/20425788/3eaa58ab-f218-4d83-8bc2-7ab6c111d95c
+
+![datatwist](https://github.com/raviavhad/datatwist/assets/20425788/8eadc693-9ef2-4fcc-9706-288d1b844b25)
+
 
 
 
