@@ -23,6 +23,12 @@ Predictive Analytics with Databricks: Utilizing Databricks' advanced analytics t
 **Audience Segmentation**: Dividing the customer base into distinct segments based on behavior, preferences, and demographics.
 **Personalized Campaigns**: Enabling personalized messaging and targeted marketing efforts, ensuring higher engagement and conversion rates.
 
+
+
+https://github.com/raviavhad/datatwist/assets/20425788/3eaa58ab-f218-4d83-8bc2-7ab6c111d95c
+
+
+
 ![datatwist2 drawio_ff824454](https://github.com/raviavhad/datatwist/assets/20425788/52226da6-ddc7-426b-9aa8-0fce7b3f95ed)
 
 
